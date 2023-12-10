@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ezequiel-Commits
-- 👀 I’m interested in Game development
+- 👀 I’m interested in Game development and its impact on youth
 - 🌱 I’m currently learning Lua
   
 <!---
