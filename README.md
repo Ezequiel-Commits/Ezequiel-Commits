@@ -1,5 +1,5 @@
 - Hi, I’m @Ezequiel-Commits
-- I’m interested in Game development and its impact on youth
+- I’m interested in game development and computer science
 - I’m currently learning Lua
 - Here's my Roblox development group! https://www.roblox.com/groups/33426638/Turtle-Realm-Studios#!/about
   
